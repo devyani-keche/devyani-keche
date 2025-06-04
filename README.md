@@ -12,10 +12,10 @@
 
 </td>
     <td>
-   
+   <td>
   <img src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"alt="Developer GIF" width="300" />
 </td>
-
+</td>
 
   </tr>
 </table>
