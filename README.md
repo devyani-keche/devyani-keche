@@ -6,7 +6,7 @@
       
 ## 👋 Hi, I’m Devyani!
 
-#### 💻 Web & App Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer<br><br>
+#### 💻 Web & App Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer<br>
 💡 Turning ideas into clean, functional, and beautiful digital experiences.<br>⚡ Currently solving LeetCode challenges and building apps with Expo.<br>📚 Skills: React.js, Next.js, Tailwind, C++, Python<br><br>Let’s create something extraordinary! 🌟
 
 
