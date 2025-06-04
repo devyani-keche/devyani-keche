@@ -1,21 +1,21 @@
+# 💫 About Me:
 <table>
   <tr>
     <td>
       
-# 💫 About Me:
       
 ## 👋 Hi, I’m Devyani!
 
-### 💻 Web & App Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer<br>
+### 💻 Web & App Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer<br><br>
 💡 Turning ideas into clean, functional, and beautiful digital experiences.<br>⚡ Currently solving LeetCode challenges and building apps with Expo.<br>📚 Skills: React.js, Next.js, Tailwind, C++, Python<br><br>Let’s create something extraordinary! 🌟
 
 
 </td>
-    <td>
+
    <td>
   <img src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"alt="Developer GIF" width="300" />
 </td>
-</td>
+
 
   </tr>
 </table>
