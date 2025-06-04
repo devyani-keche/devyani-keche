@@ -1,3 +1,6 @@
+<img src="./Screenshot 2025-06-04 180528.png" alt="Developer GIF" width="1000"/>
+
+
 # 💫 About Me:
 <table>
   <tr>
