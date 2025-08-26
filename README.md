@@ -1,25 +1,27 @@
-<img src="./Screenshot 2025-06-04 180528.png" alt="Developer GIF" width="1000"/>
+<img src="./Screenshot 2025-06-04 180528.png" alt="Developer Banner" width="100%"/>
+
 # 💫 About Me:
+
 <table>
   <tr>
-    <td>
-      
+    <td style="width:70%; vertical-align: top;">
       
 ## 👋 Hi, I’m Devyani!
+💻 **Web & App Developer** | 🎨 **UI/UX Enthusiast** | 🚀 **Tech Explorer**
 
-#### 💻 Web & App Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer<br>
-💡 Turning ideas into clean, functional, and beautiful digital experiences.<br>⚡ Currently solving LeetCode challenges and building apps with Expo.<br>📚 Skills: React.js, Next.js, Tailwind, C++, React Native<br><br>Let’s create something extraordinary! 🌟
+- 💡 Turning ideas into clean, functional, and beautiful digital experiences.  
+- ⚡ Currently solving **LeetCode challenges** & building apps with **Expo**.  
+- 📚 **Skills:** React.js, Next.js, Tailwind, C++, React Native  
 
-
+✨ *Let’s create something extraordinary!* 🌟
+      
 </td>
-
-   <td>
-  <img src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"alt="Developer GIF" width="300" />
-</td>
-
-
+    <td style="width:30%; text-align:center;">
+      <img src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif" alt="Developer GIF" width="250"/>
+    </td>
   </tr>
 </table>
+
 
 
 ## 🌐 Socials:
